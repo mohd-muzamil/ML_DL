@@ -1,4 +1,4 @@
-# Deep-Learning
-Implementation of Deep Learning models for self learning
+# Machine_Learning/Deep_Learning
+This repo consists of ML and DL projects.
 
-[Back Propogation](https://github.com/mohd-muzamil/Deep-Learning/blob/main/BackPropogation.ipynb)
+-[Back Propogation](https://github.com/mohd-muzamil/Deep-Learning/blob/main/BackPropogation.ipynb)
