@@ -4,7 +4,7 @@ This repo consists python implementation of ML and DL projects.
 #### 1. sklearn
 1. [Neural network from scratch](https://github.com/mohd-muzamil/ML_DL/blob/main/BackPropogation.ipynb)
 
-hline
+----
 
 #### PyTorch
 1. [Boilerplate Code](https://github.com/mohd-muzamil/ML_DL/blob/main/boilerplate_pytorch.ipynb)
@@ -19,11 +19,13 @@ hline
 
 ##### Anomaly Detection
 
-hline
+----
 
 #### TernsorFlow
 1. [Multilabel Classifier - MNIST dataset](https://github.com/mohd-muzamil/ML_DL/blob/main/MNIST_classifier_Tensorflow.ipynb)
 
-hline
+----
 #### Keras
 1. [Multilabel classifier - Fashion MNIST dataset](https://github.com/mohd-muzamil/ML_DL/blob/main/Fashion_MNIST_classifier_using_Keras.ipynb)
+
+----
