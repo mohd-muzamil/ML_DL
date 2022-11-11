@@ -21,7 +21,6 @@ This repo consists python implementation of ML and DL projects.
 ----
 
 references:
-1. [Lightning-Hydra-Template](https://github.com/ashleve/lightning-hydra-template.git):
+1. [Lightning-Hydra-Template](https://github.com/ashleve/lightning-hydra-template.git): I'm using this boilerplate setup for quick prototyping DL projects.
 - Convenient all-in-one technology stack for deep learning prototyping - allows you to rapidly iterate over new models, datasets and tasks on different hardware accelerators like CPUs, multi-GPUs or TPUs.
 - A collection of best practices for efficient workflow and reproducibility.
-- Thoroughly commented - you can use this repo as a reference and educational resource.
