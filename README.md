@@ -12,13 +12,13 @@ This repo consists python implementation of ML and DL projects.
 1. [Multilabel Classifier - MNIST dataset](https://github.com/mohd-muzamil/ML_DL/blob/main/MNIST_Classifier_Pytorch.ipynb)
 
 ##### Vision
-1. [-]()
+1. -
 
 ##### NLP
 1. [NLP classifier](https://github.com/mohd-muzamil/ML_DL/blob/main/NLP_with_PyTorch.ipynb)
 
 ##### Anomaly Detection
-1. [-]()
+1. -
 
 ----
 ### TernsorFlow
