@@ -1,12 +1,12 @@
 ### Machine_Learning(ML) / Deep_Learning(DL)
 This repo consists python implementation of ML and DL projects.
 
-#### 1. sklearn
+### sklearn
 1. [Neural network from scratch](https://github.com/mohd-muzamil/ML_DL/blob/main/BackPropogation.ipynb)
 
 ----
 
-#### PyTorch
+### PyTorch
 1. [Boilerplate Code](https://github.com/mohd-muzamil/ML_DL/blob/main/boilerplate_pytorch.ipynb)
 
 ##### Classification
@@ -21,11 +21,11 @@ This repo consists python implementation of ML and DL projects.
 
 ----
 
-#### TernsorFlow
+### TernsorFlow
 1. [Multilabel Classifier - MNIST dataset](https://github.com/mohd-muzamil/ML_DL/blob/main/MNIST_classifier_Tensorflow.ipynb)
 
 ----
-#### Keras
+### Keras
 1. [Multilabel classifier - Fashion MNIST dataset](https://github.com/mohd-muzamil/ML_DL/blob/main/Fashion_MNIST_classifier_using_Keras.ipynb)
 
 ----
