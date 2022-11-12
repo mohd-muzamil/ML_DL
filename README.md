@@ -1,8 +1,6 @@
 ### Machine_Learning(ML) / Deep_Learning(DL)
 This repo consists python implementation of ML and DL projects.
 
-
-### sklearn
 1. [Neural network from scratch](https://github.com/mohd-muzamil/ML_DL/blob/main/BackPropogation.ipynb)
 
 ----
